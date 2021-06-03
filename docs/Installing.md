@@ -1,6 +1,6 @@
 # Installing
 
-> ## WARNING:
+> ### WARNING:
 > parc is still under development, it may not work correctly
 
 ## tested operating systems
