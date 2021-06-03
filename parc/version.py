@@ -1,7 +1,7 @@
 import os
 
 __version__ = {
-    "type": "bleeding-edge",
+    "type": "alpha",
     "number": "0.2.0"
 }
 
