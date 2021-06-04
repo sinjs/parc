@@ -1,8 +1,6 @@
-import os
-
 __version__ = {
     "type": "alpha",
-    "number": "0.2.0"
+    "number": "0.2.1"
 }
 
 
